@@ -1,0 +1,11 @@
+contentDir: "content"
+outputDir: "dist"
+port: 3222
+pageParams:
+  {
+    baseUrl: "/",
+    title: "Jingo",
+    description: "Welcome to Jingo",
+    author: "Jingo",
+    keywords: ["Jingo", "技术", "前端", "后端", "游戏", "服务器", "防火墙"],
+  }
